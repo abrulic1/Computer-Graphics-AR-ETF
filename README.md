@@ -1,4 +1,4 @@
-# Augmented-reality: project 
+# Augmented-reality: Šarena džamija
 <br>
 Requirements:
 <br>
@@ -7,4 +7,4 @@ Requirements:
 2. Android Studio
 <br>
 <br>
-Video of the application: ...
+Video and resources of the application: https://drive.google.com/drive/folders/1Xr-dKlsyM3YeMQajEkh4E8tJBk2YndSH?usp=sharing
